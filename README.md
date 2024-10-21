@@ -66,3 +66,5 @@ git config --global user.name "Your Name"
 
 Set global email:
 git config --global user.email "your-email@example.com"
+
+It has great security feature. You can't push any secret key or password while doing push from local to github
